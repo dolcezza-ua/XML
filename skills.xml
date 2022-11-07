@@ -1,0 +1,8 @@
+<skills>
+<programming_languages>Pyton,JavaScript</programming_languages>
+ <sniffing_web_traffic>Charles, Fiddler</sniffing_web_traffic>
+ <database>Postgres</database>
+ <non-relational_database>Redis</non-relational_database>
+ <load_testing>Jmeter</load_testing>
+ <development_methodology>Scrum</development_methodology>
+</skills>
