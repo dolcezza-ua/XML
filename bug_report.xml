@@ -1,0 +1,19 @@
+<form> 
+  <id>2355454</id>
+  <environment>Windows 10 x 64</environment>
+  <browser>Google Chrom, Firefox</browser>
+  <reporter>Olha Chernikova</reporter>
+  <priority>Medium</priority>
+  <severity>Major</severity>
+  <status>Open</status>
+  <title>The image is not shown on the main page.</title> 
+  <description>The third image is not shown on the main page.</description>
+  <steps>
+    <ol>
+      <li>Open the site http://trainingcentre.wixsite.com/dogblog.</li>
+	    <li>Pay attention to the third image on the main page.</li>
+    </ol>
+  </steps>
+  <actual_result>The third image is not shown on the main page, but other images are shown on the main page.</actual_result>
+  <expected_result>All images are shown on the main page.</expected_result>
+</form>
