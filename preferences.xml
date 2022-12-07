@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <preferences>
- <favorite_movie>My_dogs</favorite_movie>
- <favorite_series>My_cats</favorite_series>
- <favorite_food>ice_cream</favorite_food>
- <favorite_season>spring</favorite_season>
- <dream_country>France</dream_country>
+    <favorite_movie>My_dogs</favorite_movie>
+    <favorite_series>My_cats</favorite_series>
+    <favorite_food>ice_cream</favorite_food>
+    <favorite_season>spring</favorite_season>
+    <dream_country>France</dream_country>
 </preferences>

@@ -1,19 +1,24 @@
-<form> 
-  <id>2355454</id>
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report> 
+  <bug_id>2355454</bug_id>
   <environment>Windows 10 x 64</environment>
   <browser>Google Chrom, Firefox</browser>
   <reporter>Olha Chernikova</reporter>
-  <priority>Medium</priority>
-  <severity>Major</severity>
-  <status>Open</status>
+  <priority>
+      <type>Medium</type>
+  </priority>
+  <severity>
+      <type>Major</type>
+  </severity>
+  <status>
+      <type>Open</type>
+  </status>
   <title>The image is not shown on the main page.</title> 
   <description>The third image is not shown on the main page.</description>
-  <steps>
-    <ol>
-      <li>Open the site http://trainingcentre.wixsite.com/dogblog.</li>
-	    <li>Pay attention to the third image on the main page.</li>
-    </ol>
-  </steps>
+  <str>
+      <step id="1" type="Open the site http://trainingcentre.wixsite.com/dogblog."></step>
+	    <step id="2" type="Pay attention to the third image on the main page."></step>
+  </str>
   <actual_result>The third image is not shown on the main page, but other images are shown on the main page.</actual_result>
   <expected_result>All images are shown on the main page.</expected_result>
-</form>
+</bug_report>
